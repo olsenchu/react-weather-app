@@ -1,4 +1,4 @@
-## Project title
+## Project Title
 OpenWeather API Weather Application in React
 
 

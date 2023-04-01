@@ -1,8 +1,9 @@
 ## Project title
-This is a weather application that has two widgets. One displays the current weather with descriptions, and the other widget shows the forecast. 
+OpenWeather API Weather Application in React
+
 
 ## Motivation
-This project was built to demonstrate key competencies in building a web application, including creating API endpoints to send requests and retrieve data. This app also demonstrates skills in React development. 
+This is a weather application that has two widgets. One displays the current weather with descriptions, and the other widget shows the forecast. This project was built to demonstrate key competencies in building a web application, including creating API endpoints to send requests and retrieve data. This app also demonstrates skills in React development. 
 
  
 ## Screenshots
@@ -24,6 +25,7 @@ Download the repository files. Run npm install to install all dependencies. Serv
 ## API Reference
 
 -[GeoCitiesDB API Documentation](https://rapidapi.com/wirefreethought/api/geodb-cities)
+
 -[OpenWeather API](https://openweathermap.org/api/one-call-3)
 
 

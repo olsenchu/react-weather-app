@@ -15,9 +15,6 @@ Screenshot of current weather and forecast widgets.
 <b>Built with</b>
 - [React](https://react.dev/)
 
-## Features
-What makes your project stand out?
-
 
 ## Installation
 Download the repository files. Run npm install to install all dependencies. Serve in browser with a live server. 
@@ -26,7 +23,7 @@ Download the repository files. Run npm install to install all dependencies. Serv
 
 -[GeoCitiesDB API Documentation](https://rapidapi.com/wirefreethought/api/geodb-cities)
 
--[OpenWeather API](https://openweathermap.org/api/one-call-3)
+-[OpenWeather API Documentation](https://openweathermap.org/api/one-call-3)
 
 
 ## How to use?

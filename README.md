@@ -3,7 +3,7 @@ OpenWeather API Weather Application in React
 
 
 ## Motivation
-This is a weather application that has two widgets. One displays the current weather with descriptions, and the other widget shows the forecast. This project was built to demonstrate key competencies in building a web application, including creating API endpoints to send requests and retrieve data. This app also demonstrates skills in React development. 
+This is a weather application that has two widgets. One displays the current weather with descriptions, and the other widget shows the forecast. This project was built to demonstrate key competencies in building a web application, including creating API endpoints to send requests and retrieve data. This app also demonstrates skills utilizing the React library. 
 
  
 ## Screenshots

@@ -1,5 +1,5 @@
 ## Project Title
-Weather App w/OopenWeather API & React
+Weather App w/OpenWeather API & React
 
 
 ## Motivation
